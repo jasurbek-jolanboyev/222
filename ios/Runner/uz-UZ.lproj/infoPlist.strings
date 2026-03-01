@@ -1,0 +1,11 @@
+/* InfoPlist.strings
+  Runner
+  Created by Jasurbek Jolanboyev
+*/
+
+"CFBundleDisplayName" = "Cyber Com";
+"NSPhotoLibraryUsageDescription" = "Cyber Com rasmlar va videolarni yuborish hamda saqlash uchun galereyangizga ruxsat so'raydi.";
+"NSCameraUsageDescription" = "Cyber Com profil rasmini yaratish va video xabarlar yozish uchun kameradan foydalanadi.";
+"NSMicrophoneUsageDescription" = "Cyber Com ovozli xabarlar va videolarni yozib olish uchun mikrofondan foydalanadi.";
+"NSAppleMusicUsageDescription" = "Cyber Com audio fayllarni yuborish uchun media kutubxonangizga ruxsat so'raydi.";
+"NSLocationWhenInUseUsageDescription" = "Cyber Com do'stlaringiz bilan manzil almashishingiz uchun joylashuvingizga ruxsat so'raydi.";

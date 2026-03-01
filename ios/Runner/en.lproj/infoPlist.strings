@@ -1,0 +1,11 @@
+/* InfoPlist.strings
+  Runner
+  Created by Jasurbek Jolanboyev
+*/
+
+"CFBundleDisplayName" = "Cyber Com";
+"NSPhotoLibraryUsageDescription" = "Cyber Com needs access to your gallery to let you share and save photos and videos.";
+"NSCameraUsageDescription" = "Cyber Com uses your camera to let you take profile pictures and record video messages.";
+"NSMicrophoneUsageDescription" = "Cyber Com uses your microphone to record voice notes and audio for video messages.";
+"NSAppleMusicUsageDescription" = "Cyber Com requests access to your media library to send audio files.";
+"NSLocationWhenInUseUsageDescription" = "Cyber Com requests access to your location to share your live position in chats.";

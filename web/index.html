@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="SafeChat - Secure Messaging App">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="safechatapp">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>safechatapp</title>
+  <link rel="manifest" href="manifest.json">
+
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-messaging-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-firestore-compat.js"></script>
+</head>
+<body>
+  
+  <script>
+    // Siz topgan Firebase Config ma'lumotlarini shu yerga ham qo'yamiz
+    const firebaseConfig = {
+      apiKey: "AIzaSyAiBJfc2StqTkkPUBeK5cBZvrw0OIUqVYY",
+      authDomain: "safechat-7f27d.firebaseapp.com",
+      projectId: "safechat-7f27d",
+      storageBucket: "safechat-7f27d.firebasestorage.app",
+      messagingSenderId: "884836591001",
+      appId: "1:884836591001:web:d59ef7bd8842204c685f08",
+      measurementId: "G-DWLJSTPTKY"
+    };
+    
+    // Firebase-ni ishga tushirish
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
