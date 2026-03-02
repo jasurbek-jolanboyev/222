@@ -17,27 +17,41 @@ Ilovaning imkoniyatlari va ishlash jarayoni bilan tanishing:
 
 ---
 
+## 🛠 Texnologik Stack va Avtomatik Yangilanish
+Loyiha eng zamonaviy texnologiyalar asosida qurilgan:
+
+* **Backend (Cloud):** **Firebase** tizimi real-vaqt rejimida ma'lumotlarni sinxronizatsiya qiladi.
+* **Hot Updates:** **Shorebird Code Push** integratsiyasi foydalanuvchilarga yangi funksiyalarni APK yuklamasdan avtomatik yetkazadi.
+
+### ⚡️ Firebase Console (Backend boshqaruvi)
+Ma'lumotlar xavfsizligi va foydalanuvchilar bazasi Firebase platformasi orqali real-vaqt rejimida boshqariladi:
+
+<p align="center">
+  <img src="screenshots/firebase.png" width="800" alt="Firebase Console" />
+</p>
+
+---
+
 ## 🛡 Xavfsizlik va Ma'lumotlar yaxlitligi (Security & Integrity)
 [cite_start]Loyiha kiberxavfsizlikning eng zamonaviy standartlari asosida qurilgan[cite: 1]:
 
-* [cite_start]**AI Chat Input Filter:** Har bir guruh va shaxsiy chatdagi xabarlar real vaqt rejimida Sun'iy Intellekt tomonidan skanerdan o'tkaziladi[cite: 3]. [cite_start]Bu phishing havolalar, firibgarlik (scamming) va zararli kodlar (malware) tarqalishini xabar yuborilishidan oldin to'xtatadi[cite: 4].
+* [cite_start]**AI Chat Input Filter:** Xabarlar real vaqtda Sun'iy Intellekt tomonidan skanerdan o'tkaziladi[cite: 3]. [cite_start]Bu phishing va malware tarqalishini xabar yuborilishidan oldin to'xtatadi[cite: 4].
 * [cite_start]**Integrated Antivirus System:** Ilova ichiga o'rnatilgan antivirus modullari barcha yuklanayotgan fayllarni (PDF, APK, ZIP) avtomatik tekshiruvdan o'tkazadi[cite: 5].
-* [cite_start]**DDoS va Spam Himoyasi:** Bir foydalanuvchi yuboradigan so'rovlar soni cheklangan (Rate Limiting), bu tizimni barqarorligini ta'minlaydi[cite: 6, 7].
-* [cite_start]**Geofencing & Fingerprinting:** GPS koordinatalari orqali yolg'on ma'lumotlar tarqalishi oldi olinadi va har bir qurilma uchun noyob identifikator orqali soxta akkauntlar bloklanadi[cite: 8, 9].
-* [cite_start]**AI Moderation:** Postlar va kommentariyalardagi zararli havolalarni avtomatik aniqlaydigan filtrlash tizimi mavjud[cite: 12].
+* [cite_start]**DDoS va Spam Himoyasi:** Rate Limiting tizimi tizim barqarorligini ta'minlaydi[cite: 6, 7].
+* [cite_start]**Geofencing & Fingerprinting:** GPS koordinatalari va noyob qurilma identifikatorlari orqali yolg'on ma'lumotlar va soxta akkauntlar bloklanadi[cite: 8, 9].
+* [cite_start]**AI Moderation:** Zararli havolalarni avtomatik aniqlaydigan filtrlash tizimi[cite: 12].
+* [cite_start]**Verification System:** Muhim jarayonlarda faqat "Verified" (tasdiqlangan) foydalanuvchilar ishtirok eta oladi[cite: 11].
 
 ## ✨ Innovatsion funksiyalar va Biznes Model
-* [cite_start]**AI Companion (Hamfikr AI):** Har bir foydalanuvchi uchun startup g'oyalarini tahlil qiluvchi va kiberxavfsizlik bo'yicha maslahat beruvchi shaxsiy AI Mentor bot[cite: 15, 16].
-* [cite_start]**Professional Profiles:** Tashkilotlar (maktab, universitet) uchun maxsus funksiyalar va "Verified" nishonlari orqali rasmiylikni tasdiqlash[cite: 18, 19].
-* [cite_start]**Freemium Xizmatlar:** Startupperlar uchun postlarni "TOP"ga chiqarish (Boost) va kiberxavfsizlik bo'yicha sertifikat darslari[cite: 21, 22].
+* [cite_start]**AI Companion (Hamfikr AI):** Startup g'oyalarini tahlil qiluvchi va jamoa topishda ko'maklashuvchi shaxsiy AI Mentor bot[cite: 15, 16].
+* [cite_start]**Professional Profiles:** Tashkilotlar uchun maxsus funksiyalar (lokatsiya, rasmiy URL) va "Verified" nishonlari[cite: 18, 19].
+* [cite_start]**Freemium Xizmatlar:** Postlarni "TOP"ga chiqarish (Boost) va premium kiber-kurslar[cite: 21, 22].
 
 ---
 
 ## 📸 Ilovadan lavhalar (Barcha 19 ta Screenshot)
 
 ### 👤 Profil va Shaxsiy kabinet
-Foydalanuvchi yutuqlari, reytingi va profil sozlamalari.
-
 <p align="left">
   <img src="screenshots/16.png" width="180" />
   <img src="screenshots/7.png" width="180" />
@@ -47,8 +61,6 @@ Foydalanuvchi yutuqlari, reytingi va profil sozlamalari.
 </p>
 
 ### 💬 Xavfsiz Messenjer va Guruhlar
-Shaxsiy chatlar, guruh yaratish va media fayllar almashish.
-
 <p align="left">
   <img src="screenshots/1.png" width="180" />
   <img src="screenshots/2.png" width="180" />
@@ -59,8 +71,6 @@ Shaxsiy chatlar, guruh yaratish va media fayllar almashish.
 </p>
 
 ### 📰 Yangiliklar, Lenta va Qidiruv
-Kiberxavfsizlik maqolalari va startup loyihalar lentasi.
-
 <p align="left">
   <img src="screenshots/9.png" width="180" />
   <img src="screenshots/10.png" width="180" />
@@ -69,8 +79,6 @@ Kiberxavfsizlik maqolalari va startup loyihalar lentasi.
 </p>
 
 ### 🛠 Kontent yaratish va Sozlamalar
-Yangi post yaratish va xavfsizlik sozlamalari interfeysi.
-
 <p align="left">
   <img src="screenshots/13.png" width="180" />
   <img src="screenshots/14.png" width="180" />
