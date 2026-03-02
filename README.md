@@ -8,14 +8,14 @@ ILova hozirgi screenshotlardagi har bir tugma har bir interfeys toliq ish xolati
 
 ---
 
-## 📺 Loyiha taqdimoti (Video)
+## 📺 MVP dan foydalanish (Video) Diqqat Loyiha va dastur kodi mualliflik huquqiga ega 
 Ilovaning imkoniyatlari va ishlash jarayoni bilan tanishing:
 
 [![Cyber App Video](https://img.youtube.com/vi/aTdCIfk0Ui8/0.jpg)](https://www.youtube.com/watch?v=aTdCIfk0Ui8)
 
 > 🎥 **[YouTube orqali ko'rish](https://www.youtube.com/watch?v=YOUTUBE_ID_BU_YERDA)**
 
-https://youtu.be/aTdCIfk0Ui8
+
 ---
 
 ## 📸 Ilovadan lavhalar (Barcha 19 ta Screenshot)
