@@ -4,10 +4,18 @@
 
 Ushbu loyiha yosh startupperlarga o'z jamoasini yig'ish, loyihalarini ommalashtirish va kiber-gigiyena qoidalarini o'rganish uchun xavfsiz maydon yaratadi.
 
-## 📺 Demo Video
-> 🎥 **[Ilova namoyishini ko'rish (Telegram)](https://t.me/hackerlaruchundasturlar/22)**
-> *Video hajmi (396MB) katta bo'lgani uchun Telegram orqali ko'rish tavsiya etiladi.*
+ILova hozirgi screenshotlardagi har bir tugma har bir interfeys toliq ish xolatida va foydalanuvchilar har biridan foydalana olishadi shunchaki frontend emas 
 
+---
+
+## 📺 Loyiha taqdimoti (Video)
+Ilovaning imkoniyatlari va ishlash jarayoni bilan tanishing:
+
+[![Cyber App Video](https://img.youtube.com/vi/aTdCIfk0Ui8/0.jpg)](https://www.youtube.com/watch?v=aTdCIfk0Ui8)
+
+> 🎥 **[YouTube orqali ko'rish](https://www.youtube.com/watch?v=YOUTUBE_ID_BU_YERDA)**
+
+https://youtu.be/aTdCIfk0Ui8
 ---
 
 ## 📸 Ilovadan lavhalar (Barcha 19 ta Screenshot)
