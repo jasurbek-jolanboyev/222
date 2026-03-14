@@ -1,95 +1,26 @@
 {
   "project_info": {
-    "project_number": "884836591001",
-    "project_id": "safechat-7f27d",
-    "storage_bucket": "safechat-7f27d.firebasestorage.app"
+    "project_number": "1028534793827",
+    "project_id": "cybercommunity",
+    "storage_bucket": "cybercommunity.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:884836591001:android:b11589968a636b33685f08",
+        "mobilesdk_app_id": "1:1028534793827:android:1914f87c4058d2f09f6a56",
         "android_client_info": {
           "package_name": "com.example.safechatapp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "884836591001-bh2tcosas0e4e039iet4clf345uikfkr.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.safechatapp",
-            "certificate_hash": "6e99e275c1d086f2fd4849a31d3b95ed62bef147"
-          }
-        },
-        {
-          "client_id": "884836591001-9sidj476fvgomkveartgubcj1fqseoq9.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBUgzmDMxZNlZ-nE9zqtJVjZ7FuhRS7Muw"
+          "current_key": "AIzaSyDRG__ntH99Y3vss1DIq47C2xgYg7ZnxwU"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "884836591001-9sidj476fvgomkveartgubcj1fqseoq9.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "884836591001-8pnl6lhlrhv2qitbq34jr07pe4je0hha.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.safechatapp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:884836591001:android:91df0153a616e50b685f08",
-        "android_client_info": {
-          "package_name": "safechat.org"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "884836591001-r690nja9mouuvobakvnc68pk71l7o3up.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "safechat.org",
-            "certificate_hash": "6e99e275c1d086f2fd4849a31d3b95ed62bef147"
-          }
-        },
-        {
-          "client_id": "884836591001-9sidj476fvgomkveartgubcj1fqseoq9.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBUgzmDMxZNlZ-nE9zqtJVjZ7FuhRS7Muw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "884836591001-9sidj476fvgomkveartgubcj1fqseoq9.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "884836591001-8pnl6lhlrhv2qitbq34jr07pe4je0hha.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.safechatapp"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

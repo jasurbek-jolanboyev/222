@@ -2,24 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>884836591001-8pnl6lhlrhv2qitbq34jr07pe4je0hha.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.884836591001-8pnl6lhlrhv2qitbq34jr07pe4je0hha</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>884836591001-bh2tcosas0e4e039iet4clf345uikfkr.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAYtwudTQ1en5p59yQBGaKLRiWFBuT2gMk</string>
+	<string>AIzaSyDeUgJ-enIovzXs4MM8yb8BCXLOrIb_zT0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>884836591001</string>
+	<string>1028534793827</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.safechatapp</string>
 	<key>PROJECT_ID</key>
-	<string>safechat-7f27d</string>
+	<string>cybercommunity</string>
 	<key>STORAGE_BUCKET</key>
-	<string>safechat-7f27d.firebasestorage.app</string>
+	<string>cybercommunity.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:884836591001:ios:b4e00c274e34a22c685f08</string>
+	<string>1:1028534793827:ios:787a2373e64ecb709f6a56</string>
 </dict>
 </plist>

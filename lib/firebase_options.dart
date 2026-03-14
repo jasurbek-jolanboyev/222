@@ -41,53 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDab2DOBCtcoE2OClRX_cnNb7foi4-gcQM',
-    appId: '1:884836591001:web:7314d4a17d39f091685f08',
-    messagingSenderId: '884836591001',
-    projectId: 'safechat-7f27d',
-    authDomain: 'safechat-7f27d.firebaseapp.com',
-    storageBucket: 'safechat-7f27d.firebasestorage.app',
-    measurementId: 'G-WQTQ6SSDN7',
+    apiKey: 'AIzaSyDZRkXSdVRxT8sqioUUfJsDGWE81xa1Ras',
+    appId: '1:1028534793827:web:f2ffa1ba363d6f359f6a56',
+    messagingSenderId: '1028534793827',
+    projectId: 'cybercommunity',
+    authDomain: 'cybercommunity.firebaseapp.com',
+    storageBucket: 'cybercommunity.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBUgzmDMxZNlZ-nE9zqtJVjZ7FuhRS7Muw',
-    appId: '1:884836591001:android:b11589968a636b33685f08',
-    messagingSenderId: '884836591001',
-    projectId: 'safechat-7f27d',
-    storageBucket: 'safechat-7f27d.firebasestorage.app',
+    apiKey: 'AIzaSyDRG__ntH99Y3vss1DIq47C2xgYg7ZnxwU',
+    appId: '1:1028534793827:android:1914f87c4058d2f09f6a56',
+    messagingSenderId: '1028534793827',
+    projectId: 'cybercommunity',
+    storageBucket: 'cybercommunity.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAYtwudTQ1en5p59yQBGaKLRiWFBuT2gMk',
-    appId: '1:884836591001:ios:8fab308dcc74ba9d685f08',
-    messagingSenderId: '884836591001',
-    projectId: 'safechat-7f27d',
-    storageBucket: 'safechat-7f27d.firebasestorage.app',
-    androidClientId: '884836591001-bh2tcosas0e4e039iet4clf345uikfkr.apps.googleusercontent.com',
-    iosClientId: '884836591001-i41ch4phb4574t0dod19kdhek60imq5p.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDeUgJ-enIovzXs4MM8yb8BCXLOrIb_zT0',
+    appId: '1:1028534793827:ios:8df0ffd9799c34c79f6a56',
+    messagingSenderId: '1028534793827',
+    projectId: 'cybercommunity',
+    storageBucket: 'cybercommunity.firebasestorage.app',
     iosBundleId: 'com.jasurbek.cyberchat',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAYtwudTQ1en5p59yQBGaKLRiWFBuT2gMk',
-    appId: '1:884836591001:ios:b4e00c274e34a22c685f08',
-    messagingSenderId: '884836591001',
-    projectId: 'safechat-7f27d',
-    storageBucket: 'safechat-7f27d.firebasestorage.app',
-    androidClientId: '884836591001-bh2tcosas0e4e039iet4clf345uikfkr.apps.googleusercontent.com',
-    iosClientId: '884836591001-8pnl6lhlrhv2qitbq34jr07pe4je0hha.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDeUgJ-enIovzXs4MM8yb8BCXLOrIb_zT0',
+    appId: '1:1028534793827:ios:787a2373e64ecb709f6a56',
+    messagingSenderId: '1028534793827',
+    projectId: 'cybercommunity',
+    storageBucket: 'cybercommunity.firebasestorage.app',
     iosBundleId: 'com.example.safechatapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDab2DOBCtcoE2OClRX_cnNb7foi4-gcQM',
-    appId: '1:884836591001:web:c1821f2ff6f16d5f685f08',
-    messagingSenderId: '884836591001',
-    projectId: 'safechat-7f27d',
-    authDomain: 'safechat-7f27d.firebaseapp.com',
-    storageBucket: 'safechat-7f27d.firebasestorage.app',
-    measurementId: 'G-ZRPE0WRSJ3',
+    apiKey: 'AIzaSyDZRkXSdVRxT8sqioUUfJsDGWE81xa1Ras',
+    appId: '1:1028534793827:web:d15a92cb4571b5f19f6a56',
+    messagingSenderId: '1028534793827',
+    projectId: 'cybercommunity',
+    authDomain: 'cybercommunity.firebaseapp.com',
+    storageBucket: 'cybercommunity.firebasestorage.app',
   );
-
 }
